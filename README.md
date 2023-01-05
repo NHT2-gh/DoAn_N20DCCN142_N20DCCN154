@@ -6,7 +6,7 @@ B1: Tải source code về máy
 <br>
 B2: Tìm đường dẫn của file main.py vừa tải về từ source code
 <br>
-B3: Windown => Run => CMD
+B3: Windows => Run => CMD
 <br>
 B4: Cài đặt 2 thư viện networkx và matplotlib bằng câu lệnh: pip install networkx và pip install matplotlib
 <br>
