@@ -333,7 +333,7 @@ if __name__ == "__main__":
                     if dem == n and (check_euler_cycle_udg() or check_euler_cycle_dg()):
                         print("Chu trình Euler: ")
                         print_euler_cycle()
-                    elif dem == n and (check_euler_cycle_udg() or check_euler_cycle_dg()):
+                    elif dem == n and (check_euler_path_dg() or check_euler_path_udg()):
                         print("Không có chu trình Euler!")
                         print("Đường đi Euler:")
                         print_euler_path()
